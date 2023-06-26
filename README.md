@@ -1,0 +1,1 @@
+# Word2Vec_example_of_embedding_model
